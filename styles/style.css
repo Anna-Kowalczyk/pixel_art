@@ -1,0 +1,72 @@
+html, body {
+  line-height: 1.15;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  background: rgba(250, 250, 250, 0.9);
+}
+
+h1 {
+  font-family: 'Plaster', cursive;
+  font-size: 80px;
+  color: #0099ff;
+  text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+  margin: 0 0 0.67em;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+table {
+  margin: 2em auto 0;
+  padding: 0.67em;
+  border-collapse: collapse;
+}
+
+td, input, button, .container {
+  border: solid rgb(169, 169, 169) 1px;
+}
+
+td {
+  width: 15px;
+  height: 15px;
+}
+
+input, button{
+  font-size: 16px;
+  padding: 5px;
+  margin: 5px 30px 5px 10px;
+}
+
+input {
+  width: 60px;
+}
+
+input[type=color] {
+  width: 50px;
+  padding: 1px 2px;
+  background-color: transparent;
+  margin-right:0;
+}
+
+button {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.1px;
+  padding: 5px 20px;
+  margin-left: 40px;
+  background-color: transparent;
+}
+
+.container {
+  background: rgba(255, 255, 255, 1);
+  padding: 2em;  
+  margin: 20px;
+}
