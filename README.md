@@ -1,1 +1,1 @@
-Live preview: https://anna-kowalczyk.github.io/pixel_art/
+Live preview: https://anna-kowalczyk.github.io/pixel_art/index.html
